@@ -55,7 +55,7 @@ freq. = (5 ciclos)/(0.000010 s)=500 000 Hz
 
 Periodo=  1/(500 000 Hz)=(2*〖10〗^(-6) )segundos = 2 µs
 
-***(5) ***La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+***(5)*** La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
 
 freq.= (250 revoluciones)/s=250 Hz
 
@@ -71,7 +71,7 @@ freq.= (250 revoluciones)/s=250 Hz
 	
 **(b)** promedio = 0 A(ciclo completo), 4.5 mA (medio ciclo)
 
-** (c)** pico a pico = 14.14 mA
+**(c)** pico a pico = 14.14 mA
 
 ***(11)*** Transforme los siguientes valores angulares de grados a radianes:
 
@@ -119,7 +119,7 @@ de la onda seno B en:
 
 [![5.png](https://i.postimg.cc/d3nVyYFJ/5.png)](https://postimg.cc/Pvpjg0N7)
 
-***(25)***Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
+***(25)*** Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
 (a)	30 µs = 156 mV		
 (b)	 (b) 75 µs = 1 V		
