@@ -189,3 +189,29 @@ Vp = 600 mV, T = 500 ms
 
 Vp(ent) = 4.44 V, fent = 2 Hz
 
+**4.2. Ejercicios del Capítulo 12**
+
+***(1)*** El capacitor básico. Encuentre la capacitancia cuando Q =50 µC y V =10 V.
+
+C=Q/V=(50 µC)/(10 V)=5 µF
+
+	Determine la carga cuando C= 0.001 µF y V = 1 kV.
+	
+Q=CV=0.000001F*1000V=1 µC
+
+	Determine el voltaje cuando Q= 2 mC y C= 200 µF.
+	
+V=Q/C=(0.002 C)/(0.000200 F)=10V
+
+***(3)*** Transforme los siguientes valores de picofarads a microfarads:
+
+(a) 1000 pF  =(1000 pF*0.000001µF )/(1 p F)=1*〖10〗^(-3)  mF
+
+	3500 pF
+	
+=(3500 pF*0.000001µF )/(1 p F)=3.5*〖10〗^(-3)  mF
+	250 pF
+	
+=(250 pF*0.000001µF )/(1 p F)=2.5*〖10〗^(-4)  mF
+
+
