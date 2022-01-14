@@ -7,15 +7,15 @@ Informe de Tarea 6: Introucción a Circuito y Voltajes Alternos y Capacitores.
 
 **2.1. Objetivo General:**
 
-Definir los circuitos en serie y los circuitos en paralelo, para así poder saber su funcionamiento y diferenciarlos en un diagrama.
+Comprender lo que son los circuitos alternos y sus componentes. Al igual de cómo se utiliza un capacitador.
 
 **2.2. Objetivos Específicos:**
 
-- Entender qué componentes conforman el circuito en serie.
-- Entender qué componentes conforman el circuito en paralelo.
-- Comprender cómo funcionan el voltaje, resistencia y corriente en ambos circuitos.
-- Diferenciar su utilidad y saber en circuitos utilizarlos.
-- Obvservar cómo las leyes de Kirchhoff y Ohm son apicables también a las variables de circuitos. 
+- Entedner las características que un circuito alterno posee.
+- Reconocer los diferentes tipos de ondas.
+- Conocer el volatje y corriente que se presente en un circuito alterno.
+- Entender las características de los capacitadores.
+- Realizar los ejercicios de ambos capítulos para tener mejor conocimiento de los temas. 
 
 **3. MARCO TEÓRICO**
 
@@ -214,4 +214,20 @@ V=Q/C=(0.002 C)/(0.000200 F)=10V
 	
 =(250 pF*0.000001µF )/(1 p F)=2.5*〖10〗^(-4)  mF
 
+**5. VIDEO**
 
+https://www.youtube.com/watch?v=0DSLigTc4IE
+
+**6. CONCLUSIONES**
+
+Con este informe de tarea pudimos comenzar con la nueva forma de corriente, la alterna y conocer sus componente básicos al igual que sus valores dependiendo las ondas en que este pasando. Pudimos ver algunas nuevas ecuación que los cirucito alternos necesitan para poder comprender su funcionamiento, al igual que muchas herramientas como es el osiloscopio. De igual manera vimos como las corrientes y voltajes interactuan en esta clase de circuitos y como se pueden producir diferentes ondas que ayudan a diferenciar una de otra. De igual maner vimos los generadores AC y muchos otros que se pueden utilizar en este tipo de circuitos. 
+También, en el siguiente capítulo definimos lo que son los capactadores y cómo se los puede usar. Sus variantes y su correcto funcionamiento.
+Al final realizamos los ejercicios respectivos para poder comprender mejor lo que es cada tema y analizar con deteminiento los conceptos.
+
+**7. BIBLIOGRAFÍA**
+
+Etecé. (5 de Agosto de 2021). concepto. Obtenido de https://concepto.de/circuito-en-serie/
+
+McAllister, W. (3 de Septiembre de 2020). Khan Academy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Nat, S. (23 de Julio de 2012). EcuRed. Obtenido de https://www.ecured.cu/Circuito_en_paralelo
