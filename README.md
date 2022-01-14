@@ -214,6 +214,126 @@ V=Q/C=(0.002 C)/(0.000200 F)=10V
 	
 =(250 pF*0.000001µF )/(1 p F)=2.5*〖10〗^(-4)  mF
 
+***(19)*** Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+[![1.png](https://i.postimg.cc/SRXMgNGN/1.png)](https://postimg.cc/Cng510tW)
+
+a)0.022 microfarads
+
+b) 0.047 microfarads
+
+c) 0.001 microfarads
+
+d) 220 picofarads
+
+***(21)* **Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
+
+[![3.png](https://i.postimg.cc/XNhFpdVZ/3.png)](https://postimg.cc/XXfXPZB3)
+
+[![4.png](https://i.postimg.cc/7LxJpNNR/4.png)](https://postimg.cc/gxT0h8Qy)
+
+***(23)*** Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
+
+[![4-5.png](https://i.postimg.cc/d3DxndXk/4-5.png)](https://postimg.cc/fSnCR3MD)
+
+***(25)*** Determine la CT para cada circuito de la figura 12-71.
+
+[![5.png](https://i.postimg.cc/RFh60VyQ/5.png)](https://postimg.cc/hzFPygSf)
+
+[![6.png](https://i.postimg.cc/dQzBgzZS/6.png)](https://postimg.cc/grH8ZtDv)
+
+***(27)* ** Determine la CT para cada circuito de la figura 12-72.
+
+[![7.png](https://i.postimg.cc/MGx3NgN8/7.png)](https://postimg.cc/RWsTnpvP)
+
+[![8.png](https://i.postimg.cc/vTR07jWj/8.png)](https://postimg.cc/r0JGMfZC)
+
+***(29)*** Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
+
+(a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
+
+(b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
+
+[![9.png](https://i.postimg.cc/SxQDGcMy/9.png)](https://postimg.cc/qzYsJhwY)
+
+[![10.png](https://i.postimg.cc/cCmfK5Tf/10.png)](https://postimg.cc/8f77942C)
+
+***(31)*** Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+
+a) R= 56 ohms, C= 47 uF
+
+b) R=3300 ohms, C=0.015 uF
+
+c) R=22 kohms, C=100 pF
+
+d) R=5.6 Mohms, C=10 pF
+ 
+ [![11.png](https://i.postimg.cc/bJ2hN7yF/11.png)](https://postimg.cc/k69ZThtx)
+ 
+***(33)*** En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores? (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
+
+[![12.png](https://i.postimg.cc/mkw6bjH5/12.png)](https://postimg.cc/LgJVDzvt)
+
+[![13.png](https://i.postimg.cc/VNCGSmtM/13.png)](https://postimg.cc/HJT4RGBs)
+
+***(35)*** Repita el problema 33 con los siguientes tiempos:
+(a) 0.5 ms (b) 1 ms (c) 2 ms
+
+[![14.png](https://i.postimg.cc/fWpK6krN/14.png)](https://postimg.cc/PNbYDfH3)
+
+***(37)* **¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+[![15.png](https://i.postimg.cc/HnrVHYjc/15.png)](https://postimg.cc/ZvhTxh84)
+
+[![16.png](https://i.postimg.cc/dV2DJSQB/16.png)](https://postimg.cc/9Dfcpb7R)
+
+***(39)*** Determine la constante de tiempo para el circuito de la figura 12-77.
+
+[![17.png](https://i.postimg.cc/nVNvzgZb/17.png)](https://postimg.cc/XXcZ12pQ)
+
+[![18.png](https://i.postimg.cc/13r6vzFs/18.png)](https://postimg.cc/jDCL5tvF)
+
+***(41)*** (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+
+[![19.png](https://i.postimg.cc/8CyvVnwY/19.png)](https://postimg.cc/KKMjPf67)
+
+[![20.png](https://i.postimg.cc/8cvfMkD8/20.png)](https://postimg.cc/sGV2RrvK)
+
+[![21.png](https://i.postimg.cc/rFStppQx/21.png)](https://postimg.cc/CzxKPwyx)
+
+***(43)*** En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
+
+[![22.png](https://i.postimg.cc/T30Lr48P/22.png)](https://postimg.cc/FYfHvGHt)
+
+[![23.png](https://i.postimg.cc/LshXj4By/23.png)](https://postimg.cc/VSQm88hM)
+
+***(45)*** Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor.
+
+¿Cuál es la reactancia?
+
+[![24.png](https://i.postimg.cc/dV3vxHk3/24.png)](https://postimg.cc/8j2qFbbg)
+
+***(47)*** Determine la potencia verdadera y la potencia reactiva en el problema 46.
+Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
+
+[![25.png](https://i.postimg.cc/13n2FLVG/25.png)](https://postimg.cc/NKtdqC4F)
+
+***(49)*** Determine el valor de C1 en la figura 12-82.
+
+[![26.png](https://i.postimg.cc/yN0GQcPW/26.png)](https://postimg.cc/Lq6vhqGM)
+
+[![27.png](https://i.postimg.cc/1tHjPSbQ/27.png)](https://postimg.cc/jwDXQpsg)
+
+***(51)*** Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+El capacitor conectado paralelamente permite que el voltaje de fluctuación permita dar una corriente directa a la resistencia de carga, por lo que, al añadir uno más, se está proporcionando una corriente directa más pura.
+
+***(53)*** En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
+[![28.png](https://i.postimg.cc/qB155k8c/28.png)](https://postimg.cc/rztjd2Zz)
+
 **5. VIDEO**
 
 https://www.youtube.com/watch?v=0DSLigTc4IE
